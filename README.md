@@ -10,7 +10,7 @@ This program utilizes pyperclip to pass variable names into the script. Please i
 
 ## To use this program, follow these steps:
 
-1.) Copy the URL for a song or album from bandcamp
+1.) Copy the URL for a song or album from bandcamp into your clipboard (Ctrl + V)
 
 2.) Run BandScraper.py
 
