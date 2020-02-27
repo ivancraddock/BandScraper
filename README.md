@@ -8,7 +8,7 @@ This program utilizes pyperclip to pass variable names into the script. Please i
 
 `pip install pyperclip`
 
-##To use this program, follow these steps:
+## To use this program, follow these steps:
 
 1.) Copy the URL for a song or album from bandcamp
 
